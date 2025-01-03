@@ -1,0 +1,2 @@
+Web sitemin veritabanı için Microsoft SQL Server kullandım 8 tane tasarım alanı tablosu dışında tüm tabloları laravelden migrate ederek yükledim. Tasarım alanları tablolarım designers tablosuna bağlı ancak 
+oluştururken foreign id kullanmamıştım. Bu yüzden diyagramı oluştururken tasarım alanları tablolarını manuel olarak bağladım. Laravelde seeders kullanmadığım için doldurulması gereken tabloları SQL Serverda doldurdum.
